@@ -10,6 +10,14 @@ Python utility for auditing GitHub repository metrics and exporting LLM-ready he
 
 The tool generates structured reports optimized for Large Language Models (LLMs), allowing developers to quickly feed repository health metrics into AI workflows for comprehensive auditing.
 
+## 🚀 How to Use (v2.0.0)
+
+**For Windows Users:**
+The easiest way to run the analyzer with full color support:
+1. Clone the repository to your PC.
+2. Double-click the `start.bat` file.
+3. Paste the GitHub repository URL when prompted!
+
 ### Key Features
 
 | Feature | Description | Technical Implementation |
