@@ -1,4 +1,4 @@
-#github-repo-analyzer
+# github-repo-analyzer
 
 Python utility for auditing GitHub repository metrics and exporting LLM-ready health insights.
 
