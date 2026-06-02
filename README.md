@@ -6,7 +6,7 @@ Python utility for auditing GitHub repository metrics and exporting LLM-ready he
 
 ## Overview
 
-**GitHubRepoAnalyzer** is a lightweight, zero-dependency Command Line Interface (CLI) utility designed for developers and open-source maintainers. It automates the process of fetching repository metadata, analyzing community engagement, and evaluating project maintenance status using the official GitHub REST API.
+**github-repo-analyzer** is a lightweight, zero-dependency Command Line Interface (CLI) utility designed for developers and open-source maintainers. It automates the process of fetching repository metadata, analyzing community engagement, and evaluating project maintenance status using the official GitHub REST API.
 
 The tool generates structured reports optimized for Large Language Models (LLMs), allowing developers to quickly feed repository health metrics into AI workflows for comprehensive auditing.
 
