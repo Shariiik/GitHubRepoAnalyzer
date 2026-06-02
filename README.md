@@ -41,8 +41,8 @@ The easiest way to run the analyzer with full color support:
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/Shariiik/GitHubRepoAnalyzer.git](https://github.com/Shariiik/GitHubRepoAnalyzer.git)
-cd GitHubRepoAnalyzer
+git clone https://github.com/Shariiik/github-repo-analyzer.git
+cd github-repo-analyzer
 ```
 
 Install the required configuration:
